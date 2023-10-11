@@ -1,0 +1,7 @@
+<launch>
+
+    <rosparam file="$(find obj_server)/object_list/test_world_02.yaml" />
+
+    <node pkg="obj_server" type="obj_broad.py" name="object_broadcast" output="screen"/>
+
+</launch>

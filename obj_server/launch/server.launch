@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="obj_server" type="obj_server.py" name="object_server" output="screen"/>
+
+</launch>
