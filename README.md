@@ -1,6 +1,6 @@
 # **DynaCon: Dynamic Robot Planner with Contextual Awareness via LLMs**
 
-[Gyeongmin Kim](https://github.com/gmkim97), [Taehyeon Kim](https://github.com/QualiaT), Shyam Sundar Kannan, Vishnunandan L. N. Venkatesh, Donghan Kim and Byung-Cheol Min.
+**Authors:** [Gyeongmin Kim](https://github.com/gmkim97), [Taehyeon Kim](https://github.com/QualiaT), Shyam Sundar Kannan, Vishnunandan L. N. Venkatesh, Donghan Kim and Byung-Cheol Min.
 
 Submitted to IEEE International Conference on Robotics and Automation (ICRA), 2024
 
